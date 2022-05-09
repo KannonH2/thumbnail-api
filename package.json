@@ -7,8 +7,8 @@
     "start": "nodemon -L",
     "test": "mocha -w ./tests/**/*.spec.js  --timeout 10000"
   },
-  "author": "KannonH2",
-  "license": "",
+  "author": "Henry",
+  "license": "ISC",
   "engines": {
     "node": "=15.3.0",
     "npm": "=7.0.14"
